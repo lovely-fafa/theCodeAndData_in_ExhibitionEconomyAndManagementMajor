@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="360pt" height="288pt" viewBox="0 0 360 288" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2022-12-08T15:45:48.799768</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.5.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 288 
+L 360 288 
+L 360 0 
+L 0 0 
+L 0 288 
+z
+" style="fill: none"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 45 252 
+L 324 252 
+L 324 34.56 
+L 45 34.56 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 57.681818 252 
+L 111.078947 252 
+L 111.078947 53.69472 
+L 57.681818 53.69472 
+z
+" clip-path="url(#p7de6f44f06)" style="fill: #92c6ff"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 124.42823 252 
+L 177.825359 252 
+L 177.825359 250.26048 
+L 124.42823 250.26048 
+z
+" clip-path="url(#p7de6f44f06)" style="fill: #92c6ff"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 191.174641 252 
+L 244.57177 252 
+L 244.57177 248.52096 
+L 191.174641 248.52096 
+z
+" clip-path="url(#p7de6f44f06)" style="fill: #92c6ff"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 257.921053 252 
+L 311.318182 252 
+L 311.318182 250.26048 
+L 257.921053 250.26048 
+z
+" clip-path="url(#p7de6f44f06)" style="fill: #92c6ff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m3f75e709f0" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m3f75e709f0" x="84.380383" y="252" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <!-- 0.0分 -->
+      <g transform="translate(72.199914 266.6)scale(0.1 -0.1)">
+       <defs>
+        <path id="AlibabaPuHuiTi-Regular-30" d="M 1837 -64 
+Q 1504 -64 1229 35 
+Q 954 134 755 390 
+Q 557 646 448 1091 
+Q 339 1536 339 2221 
+Q 339 2906 448 3347 
+Q 557 3789 755 4048 
+Q 954 4307 1229 4406 
+Q 1504 4506 1837 4506 
+Q 2170 4506 2448 4406 
+Q 2726 4307 2924 4048 
+Q 3123 3789 3232 3347 
+Q 3341 2906 3341 2221 
+Q 3341 1536 3232 1091 
+Q 3123 646 2924 390 
+Q 2726 134 2448 35 
+Q 2170 -64 1837 -64 
+z
+M 1837 416 
+Q 2074 416 2246 496 
+Q 2419 576 2534 781 
+Q 2650 986 2704 1334 
+Q 2758 1683 2758 2221 
+Q 2758 2752 2704 3101 
+Q 2650 3450 2534 3654 
+Q 2419 3859 2246 3939 
+Q 2074 4019 1837 4019 
+Q 1606 4019 1433 3939 
+Q 1261 3859 1149 3654 
+Q 1037 3450 982 3101 
+Q 928 2752 928 2221 
+Q 928 1683 982 1334 
+Q 1037 986 1149 781 
+Q 1261 576 1433 496 
+Q 1606 416 1837 416 
+z
+" transform="scale(0.015625)"/>
+        <path id="AlibabaPuHuiTi-Regular-2e" d="M 966 -38 
+Q 742 -38 649 32 
+Q 557 102 557 371 
+Q 557 627 649 697 
+Q 742 768 966 768 
+Q 1184 768 1280 697 
+Q 1376 627 1376 371 
+Q 1376 102 1280 32 
+Q 1184 -38 966 -38 
+z
+" transform="scale(0.015625)"/>
+        <path id="AlibabaPuHuiTi-Regular-5206" d="M 3885 5171 
+Q 4045 4742 4253 4384 
+Q 4461 4026 4729 3718 
+Q 4998 3411 5334 3139 
+Q 5670 2867 6099 2611 
+L 5805 2170 
+Q 5370 2438 5030 2710 
+Q 4691 2982 4419 3308 
+Q 4147 3635 3913 4044 
+Q 3680 4454 3456 4992 
+L 3885 5171 
+z
+M 2803 4883 
+Q 2618 4474 2400 4122 
+Q 2182 3770 1913 3450 
+Q 1645 3130 1312 2832 
+Q 979 2534 563 2227 
+L 218 2630 
+Q 992 3104 1513 3721 
+Q 2035 4339 2342 5062 
+L 2803 4883 
+z
+M 1350 2694 
+L 4832 2694 
+Q 4826 2573 4813 2384 
+Q 4800 2195 4787 1971 
+Q 4774 1747 4758 1504 
+Q 4742 1261 4723 1037 
+Q 4704 813 4688 621 
+Q 4672 429 4659 307 
+Q 4634 83 4592 -51 
+Q 4550 -186 4467 -262 
+Q 4384 -339 4249 -374 
+Q 4115 -410 3904 -429 
+Q 3795 -442 3708 -448 
+Q 3622 -454 3552 -461 
+Q 3475 -467 3411 -467 
+L 3226 13 
+L 3725 45 
+Q 3853 51 3933 76 
+Q 4013 102 4057 153 
+Q 4102 205 4124 291 
+Q 4147 378 4166 506 
+Q 4186 640 4205 893 
+Q 4224 1146 4243 1408 
+Q 4262 1670 4275 1900 
+Q 4288 2131 4294 2221 
+L 2592 2221 
+Q 2586 2138 2579 2032 
+Q 2573 1926 2560 1811 
+Q 2515 1395 2425 1062 
+Q 2336 730 2141 435 
+Q 1946 141 1613 -131 
+Q 1280 -403 755 -698 
+L 435 -307 
+Q 928 -51 1225 173 
+Q 1523 397 1692 637 
+Q 1862 877 1939 1158 
+Q 2016 1440 2074 1818 
+Q 2093 1933 2099 2038 
+Q 2106 2144 2112 2221 
+L 1350 2221 
+L 1350 2694 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-30"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-2e" x="57.499985"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-30" x="87.699982"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-5206" x="145.199966"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m3f75e709f0" x="151.126794" y="252" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <!-- 0.5分 -->
+      <g transform="translate(138.946326 266.6)scale(0.1 -0.1)">
+       <defs>
+        <path id="AlibabaPuHuiTi-Regular-35" d="M 1466 -64 
+Q 1197 -64 982 -45 
+Q 768 -26 550 19 
+L 550 525 
+Q 800 461 1001 438 
+Q 1203 416 1459 416 
+Q 1734 416 1961 464 
+Q 2189 512 2349 624 
+Q 2509 736 2598 918 
+Q 2688 1101 2688 1376 
+Q 2688 1875 2397 2102 
+Q 2106 2330 1414 2330 
+Q 1235 2330 1004 2301 
+Q 774 2272 563 2234 
+L 864 4442 
+L 2938 4442 
+L 2938 3942 
+L 1299 3942 
+L 1114 2726 
+Q 1235 2746 1356 2755 
+Q 1478 2765 1632 2765 
+Q 2406 2765 2822 2445 
+Q 3238 2125 3238 1414 
+Q 3238 1018 3113 739 
+Q 2989 461 2758 281 
+Q 2528 102 2198 19 
+Q 1869 -64 1466 -64 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-30"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-2e" x="57.499985"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-35" x="87.699982"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-5206" x="145.199966"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m3f75e709f0" x="217.873206" y="252" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <!-- 1.0分 -->
+      <g transform="translate(205.692737 266.6)scale(0.1 -0.1)">
+       <defs>
+        <path id="AlibabaPuHuiTi-Regular-31" d="M 1747 3917 
+L 646 3706 
+L 646 4173 
+L 1946 4442 
+L 2323 4442 
+L 2323 0 
+L 1747 0 
+L 1747 3917 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-31"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-2e" x="57.499985"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-30" x="87.699982"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-5206" x="145.199966"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m3f75e709f0" x="284.619617" y="252" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <!-- 3.0分 -->
+      <g transform="translate(272.439148 266.6)scale(0.1 -0.1)">
+       <defs>
+        <path id="AlibabaPuHuiTi-Regular-33" d="M 1446 -64 
+Q 1178 -64 925 -45 
+Q 672 -26 448 19 
+L 448 525 
+Q 704 461 944 438 
+Q 1184 416 1440 416 
+Q 1690 416 1904 454 
+Q 2118 493 2272 589 
+Q 2426 685 2515 841 
+Q 2605 998 2605 1229 
+Q 2605 1702 2285 1888 
+Q 1965 2074 1331 2074 
+L 979 2074 
+L 979 2515 
+L 1325 2515 
+Q 1907 2515 2208 2729 
+Q 2509 2944 2509 3309 
+Q 2509 3699 2275 3865 
+Q 2042 4032 1562 4032 
+Q 1370 4032 1120 4000 
+Q 870 3968 659 3904 
+L 659 4378 
+Q 826 4429 1078 4467 
+Q 1331 4506 1587 4506 
+Q 2304 4506 2672 4230 
+Q 3040 3955 3040 3341 
+Q 3040 2906 2829 2672 
+Q 2618 2438 2253 2330 
+L 2253 2291 
+Q 2726 2208 2940 1936 
+Q 3155 1664 3155 1222 
+Q 3155 608 2742 272 
+Q 2330 -64 1446 -64 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-33"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-2e" x="57.499985"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-30" x="87.699982"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-5206" x="145.199966"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_5">
+      <defs>
+       <path id="m963a29e587" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m963a29e587" x="45" y="252" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <!-- 0 -->
+      <g transform="translate(32.25 255.8)scale(0.1 -0.1)">
+       <use xlink:href="#AlibabaPuHuiTi-Regular-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m963a29e587" x="45" y="217.2096" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <!-- 20 -->
+      <g transform="translate(26.5 221.0096)scale(0.1 -0.1)">
+       <defs>
+        <path id="AlibabaPuHuiTi-Regular-32" d="M 365 608 
+Q 1075 1165 1504 1555 
+Q 1933 1946 2169 2240 
+Q 2406 2534 2483 2768 
+Q 2560 3002 2560 3238 
+Q 2560 3475 2473 3628 
+Q 2387 3782 2252 3872 
+Q 2118 3962 1948 3994 
+Q 1779 4026 1619 4026 
+Q 1408 4026 1171 4003 
+Q 934 3981 672 3910 
+L 672 4403 
+Q 896 4454 1149 4480 
+Q 1402 4506 1683 4506 
+Q 2010 4506 2272 4435 
+Q 2534 4365 2723 4211 
+Q 2912 4058 3011 3814 
+Q 3110 3571 3110 3232 
+Q 3110 2931 3020 2665 
+Q 2931 2400 2720 2115 
+Q 2509 1830 2150 1500 
+Q 1792 1171 1254 742 
+L 998 544 
+L 998 486 
+L 3290 486 
+L 3290 0 
+L 365 0 
+L 365 608 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-32"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-30" x="57.499985"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m963a29e587" x="45" y="182.4192" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <!-- 40 -->
+      <g transform="translate(26.5 186.2192)scale(0.1 -0.1)">
+       <defs>
+        <path id="AlibabaPuHuiTi-Regular-34" d="M 3386 1094 
+L 2861 1094 
+L 2861 0 
+L 2323 0 
+L 2323 1094 
+L 224 1094 
+L 224 1715 
+L 2170 4442 
+L 2861 4442 
+L 2861 1581 
+L 3386 1581 
+L 3386 1094 
+z
+M 2323 1581 
+L 2323 3853 
+L 2285 3853 
+L 710 1619 
+L 710 1581 
+L 2323 1581 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-34"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-30" x="57.499985"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m963a29e587" x="45" y="147.6288" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <!-- 60 -->
+      <g transform="translate(26.5 151.4288)scale(0.1 -0.1)">
+       <defs>
+        <path id="AlibabaPuHuiTi-Regular-36" d="M 1837 -64 
+Q 1530 -64 1264 22 
+Q 998 109 796 313 
+Q 595 518 480 860 
+Q 365 1203 365 1722 
+Q 365 2342 502 2854 
+Q 640 3366 928 3734 
+Q 1216 4102 1667 4304 
+Q 2118 4506 2746 4506 
+L 2739 4019 
+Q 2330 4019 2010 3904 
+Q 1690 3789 1466 3587 
+Q 1242 3386 1114 3114 
+Q 986 2842 960 2528 
+L 979 2528 
+Q 1107 2656 1356 2774 
+Q 1606 2893 1933 2893 
+Q 2554 2893 2918 2541 
+Q 3283 2189 3283 1459 
+Q 3283 1133 3196 854 
+Q 3110 576 2934 371 
+Q 2758 166 2483 51 
+Q 2208 -64 1837 -64 
+z
+M 1830 416 
+Q 2285 416 2521 675 
+Q 2758 934 2758 1459 
+Q 2758 1958 2521 2204 
+Q 2285 2451 1907 2451 
+Q 1389 2451 1152 2204 
+Q 915 1958 915 1562 
+Q 915 416 1830 416 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-36"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-30" x="57.499985"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m963a29e587" x="45" y="112.8384" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <!-- 80 -->
+      <g transform="translate(26.5 116.6384)scale(0.1 -0.1)">
+       <defs>
+        <path id="AlibabaPuHuiTi-Regular-38" d="M 1837 -64 
+Q 1120 -64 720 237 
+Q 320 538 320 1178 
+Q 320 1434 390 1622 
+Q 461 1811 573 1942 
+Q 685 2074 825 2154 
+Q 966 2234 1107 2285 
+L 1107 2310 
+Q 826 2438 646 2672 
+Q 467 2906 467 3322 
+Q 467 3584 547 3801 
+Q 627 4019 793 4176 
+Q 960 4333 1219 4419 
+Q 1478 4506 1837 4506 
+Q 2195 4506 2454 4419 
+Q 2714 4333 2880 4176 
+Q 3046 4019 3126 3801 
+Q 3206 3584 3206 3322 
+Q 3206 2918 3049 2678 
+Q 2893 2438 2566 2310 
+L 2566 2285 
+Q 2726 2234 2870 2154 
+Q 3014 2074 3123 1939 
+Q 3232 1805 3293 1616 
+Q 3354 1427 3354 1171 
+Q 3354 531 2957 233 
+Q 2560 -64 1837 -64 
+z
+M 1837 2496 
+Q 2074 2496 2237 2557 
+Q 2400 2618 2499 2726 
+Q 2598 2835 2643 2976 
+Q 2688 3117 2688 3283 
+Q 2688 3648 2477 3846 
+Q 2266 4045 1837 4045 
+Q 986 4045 986 3283 
+Q 986 3117 1024 2976 
+Q 1062 2835 1161 2726 
+Q 1261 2618 1424 2557 
+Q 1587 2496 1837 2496 
+z
+M 1837 403 
+Q 2362 403 2592 617 
+Q 2822 832 2822 1197 
+Q 2822 1651 2579 1862 
+Q 2336 2074 1837 2074 
+Q 1338 2074 1098 1862 
+Q 858 1651 858 1197 
+Q 858 832 1085 617 
+Q 1312 403 1837 403 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-38"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-30" x="57.499985"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m963a29e587" x="45" y="78.048" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <!-- 100 -->
+      <g transform="translate(20.75 81.848)scale(0.1 -0.1)">
+       <use xlink:href="#AlibabaPuHuiTi-Regular-31"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-30" x="57.499985"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-30" x="114.999969"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#m963a29e587" x="45" y="43.2576" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <!-- 120 -->
+      <g transform="translate(20.75 47.0576)scale(0.1 -0.1)">
+       <use xlink:href="#AlibabaPuHuiTi-Regular-31"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-32" x="57.499985"/>
+       <use xlink:href="#AlibabaPuHuiTi-Regular-30" x="114.999969"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_12">
+     <!-- 数量 -->
+     <g transform="translate(14.75 153.120625)rotate(-90)scale(0.1 -0.1)">
+      <defs>
+       <path id="AlibabaPuHuiTi-Regular-6570" d="M 4819 947 
+Q 5274 301 6061 -294 
+L 5728 -640 
+Q 5363 -346 5075 -54 
+Q 4787 237 4563 544 
+Q 4326 230 4006 -64 
+Q 3686 -358 3251 -672 
+L 2957 -314 
+Q 3418 -6 3744 298 
+Q 4070 602 4294 947 
+Q 4045 1382 3894 1849 
+Q 3744 2317 3661 2854 
+Q 3610 2765 3555 2672 
+Q 3501 2579 3443 2490 
+L 3085 2720 
+Q 3264 2970 3421 3274 
+Q 3578 3578 3702 3898 
+Q 3827 4218 3916 4534 
+Q 4006 4851 4058 5120 
+L 4506 5011 
+Q 4454 4781 4387 4553 
+Q 4320 4326 4237 4096 
+L 5901 4096 
+L 5901 3635 
+L 5466 3635 
+Q 5427 3200 5376 2822 
+Q 5325 2445 5251 2118 
+Q 5178 1792 5072 1501 
+Q 4966 1210 4819 947 
+z
+M 198 2317 
+Q 640 2534 985 2806 
+Q 1331 3078 1600 3379 
+L 397 3379 
+L 397 3770 
+L 1709 3770 
+L 1709 5082 
+L 2138 5056 
+L 2138 3770 
+L 3290 3770 
+L 3290 3379 
+L 2138 3379 
+L 2138 2189 
+L 1709 2189 
+L 1709 2976 
+Q 1466 2694 1149 2441 
+Q 832 2189 429 1971 
+L 198 2317 
+z
+M 3213 4774 
+Q 3168 4672 3104 4550 
+Q 3040 4429 2966 4304 
+Q 2893 4179 2816 4064 
+Q 2739 3949 2675 3866 
+L 2355 4045 
+Q 2413 4122 2483 4230 
+Q 2554 4339 2621 4457 
+Q 2688 4576 2749 4701 
+Q 2810 4826 2854 4934 
+L 3213 4774 
+z
+M 1037 3872 
+Q 1005 3974 957 4099 
+Q 909 4224 851 4345 
+Q 794 4467 736 4576 
+Q 678 4685 634 4768 
+L 973 4896 
+Q 1018 4826 1075 4717 
+Q 1133 4608 1190 4483 
+Q 1248 4358 1299 4230 
+Q 1350 4102 1389 3994 
+L 1037 3872 
+z
+M 3968 3456 
+Q 4038 2848 4172 2345 
+Q 4307 1843 4544 1395 
+Q 4755 1856 4864 2397 
+Q 4973 2938 5037 3635 
+L 4045 3635 
+L 3968 3456 
+z
+M 3014 2086 
+Q 2829 2310 2621 2531 
+Q 2413 2752 2208 2931 
+L 2464 3168 
+Q 2630 3040 2854 2819 
+Q 3078 2598 3270 2381 
+L 3014 2086 
+z
+M 2842 -275 
+Q 2662 -166 2470 -67 
+Q 2278 32 2080 134 
+Q 1805 -70 1417 -256 
+Q 1030 -442 467 -627 
+L 243 -224 
+Q 723 -83 1065 54 
+Q 1408 192 1658 346 
+Q 1165 582 704 755 
+Q 794 902 883 1056 
+Q 973 1210 1056 1363 
+L 314 1363 
+L 314 1747 
+L 1248 1747 
+Q 1306 1869 1354 1981 
+Q 1402 2093 1440 2195 
+L 1850 2061 
+Q 1818 1978 1786 1901 
+Q 1754 1824 1722 1747 
+L 3053 1747 
+L 3053 1382 
+Q 2925 1114 2777 877 
+Q 2630 640 2419 429 
+Q 2560 358 2707 291 
+Q 2854 224 3014 147 
+L 2842 -275 
+z
+M 1286 909 
+Q 1459 838 1638 764 
+Q 1818 691 2016 602 
+Q 2208 768 2339 953 
+Q 2470 1139 2579 1363 
+L 1536 1363 
+Q 1478 1242 1414 1130 
+Q 1350 1018 1286 909 
+z
+" transform="scale(0.015625)"/>
+       <path id="AlibabaPuHuiTi-Regular-91cf" d="M 5261 3450 
+L 1030 3450 
+L 1030 4928 
+L 5261 4928 
+L 5261 3450 
+z
+M 1517 4614 
+L 1517 4333 
+L 4781 4333 
+L 4781 4614 
+L 1517 4614 
+z
+M 4781 3757 
+L 4781 4045 
+L 1517 4045 
+L 1517 3757 
+L 4781 3757 
+z
+M 5990 3149 
+L 5990 2810 
+L 301 2810 
+L 301 3149 
+L 5990 3149 
+z
+M 3379 -154 
+L 5856 -154 
+L 5856 -493 
+L 435 -493 
+L 435 -154 
+L 2918 -154 
+L 2918 218 
+L 870 218 
+L 870 557 
+L 2918 557 
+L 2918 928 
+L 1024 928 
+L 1024 2477 
+L 5261 2477 
+L 5261 928 
+L 3379 928 
+L 3379 557 
+L 5421 557 
+L 5421 218 
+L 3379 218 
+L 3379 -154 
+z
+M 1504 2170 
+L 1504 1856 
+L 2918 1856 
+L 2918 2170 
+L 1504 2170 
+z
+M 4781 2170 
+L 3379 2170 
+L 3379 1856 
+L 4781 1856 
+L 4781 2170 
+z
+M 2918 1242 
+L 2918 1555 
+L 1504 1555 
+L 1504 1242 
+L 2918 1242 
+z
+M 4781 1242 
+L 4781 1555 
+L 3379 1555 
+L 3379 1242 
+L 4781 1242 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#AlibabaPuHuiTi-Regular-6570"/>
+      <use xlink:href="#AlibabaPuHuiTi-Regular-91cf" x="98.399994"/>
+     </g>
+    </g>
+   </g>
+   <g id="patch_7">
+    <path d="M 45 252 
+L 45 34.56 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 324 252 
+L 324 34.56 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 45 252 
+L 324 252 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 45 34.56 
+L 324 34.56 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_13">
+    <!-- 114 -->
+    <g transform="translate(75.755383 50.21568)scale(0.1 -0.1)">
+     <use xlink:href="#AlibabaPuHuiTi-Regular-31"/>
+     <use xlink:href="#AlibabaPuHuiTi-Regular-31" x="57.499985"/>
+     <use xlink:href="#AlibabaPuHuiTi-Regular-34" x="114.999969"/>
+    </g>
+   </g>
+   <g id="text_14">
+    <!-- 1 -->
+    <g transform="translate(148.251794 246.78144)scale(0.1 -0.1)">
+     <use xlink:href="#AlibabaPuHuiTi-Regular-31"/>
+    </g>
+   </g>
+   <g id="text_15">
+    <!-- 2 -->
+    <g transform="translate(214.998206 245.04192)scale(0.1 -0.1)">
+     <use xlink:href="#AlibabaPuHuiTi-Regular-32"/>
+    </g>
+   </g>
+   <g id="text_16">
+    <!-- 1 -->
+    <g transform="translate(281.744617 246.78144)scale(0.1 -0.1)">
+     <use xlink:href="#AlibabaPuHuiTi-Regular-31"/>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p7de6f44f06">
+   <rect x="45" y="34.56" width="279" height="217.44"/>
+  </clipPath>
+ </defs>
+</svg>
